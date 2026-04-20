@@ -46,3 +46,24 @@ Built with **Spring Boot (backend)** and **React (frontend)**.
 ---
 
 ## 📁 Project Structure
+
+---
+
+## ⚙️ Working
+- Client connects to server via WebSocket  
+- Messages are sent using STOMP protocol  
+- Server processes and broadcasts messages  
+- All connected users receive messages instantly  
+
+---
+
+## 🚀 How to Run
+
+### 🔹 Backend
+```bash
+cd backend
+.\mvnw.cmd spring-boot:run
+
+cd frontend
+npm install
+npm run dev
