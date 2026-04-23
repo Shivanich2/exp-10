@@ -67,3 +67,12 @@ cd backend
 cd frontend
 npm install
 npm run dev
+
+**### Screenshots**
+<img width="967" height="793" alt="Screenshot 2026-04-20 151200" src="https://github.com/user-attachments/assets/efc1fe6d-2a54-4bdc-bbb9-03285630d17d" />
+<img width="787" height="911" alt="Screenshot 2026-04-20 225854" src="https://github.com/user-attachments/assets/e8ab85b8-885e-4927-a4fd-2cbbdd4f5d08" />
+<img width="526" height="924" alt="Screenshot 2026-04-20 225913" src="https://github.com/user-attachments/assets/76964854-19bc-427c-831a-6ea4f5fa180c" />
+<img width="1097" height="599" alt="Screenshot 2026-04-20 225955" src="https://github.com/user-attachments/assets/ac3d8192-5d3b-493d-a9e7-681b791bc613" />
+<img width="1152" height="579" alt="Screenshot 2026-04-20 230017" src="https://github.com/user-attachments/assets/18596eb1-972c-48ae-a4d1-fa65666b83de" />
+
+
